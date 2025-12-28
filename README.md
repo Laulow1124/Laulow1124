@@ -1,7 +1,9 @@
 **Profile Description:** <br>
 
+I'm currently a Data Analyst/DES Proactive Engineer at Pratt and Whitney Canada, specializing in data for engine performance, oil system, fuel system and vibration for the PW800 turbofan engines. <br>
+
 I'm a Data Science enthusiast with a background in Mechanical Engineering and several years of experience in the aerospace industry. <br>
-I recently graduated with a **Diploma in Data Science**, which has equipped me with the technical skills and tools to complement my engineering background and industry experience.
+I graduated with a Diploma in Data Science, which has equipped me with the technical skills and tools to complement my engineering background and industry experience.
 
 My interest in data science began during my time in aerospace, where I saw firsthand how powerful data can be in driving insights and decisions across engineering, maintenance, and design processes. <br>
 
